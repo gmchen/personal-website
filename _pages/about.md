@@ -2,23 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an MD/PhD student in [Genomics and Computational Biology](https://www.med.upenn.edu/gcb/){:target="\_blank"} at the [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania){:target="\_blank"}. I am interested in the ways in which data-driven science and high-throughput technologies can improve our understanding of health and disease. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My PhD research involves the use of molecular technologies such as single-cell methods to better understand and improve [Chimeric Antigen Receptor (CAR) T-cell therapy](https://en.wikipedia.org/wiki/Chimeric_antigen_receptor_T_cell){:target="\_blank"} for the treatment of pediatric and adult cancers. Before joining Penn, I studied at [McMaster University](https://en.wikipedia.org/wiki/McMaster_University){:target="\_blank"}, during which I performed computational biology research in the McMaster [Department of Chemistry & Chemical Biology](https://chemistry.mcmaster.ca/){:target="\_blank"} as well as at the [Ontario Institute for Cancer Research](https://oicr.on.ca/){:target="\_blank"} and [Princess Margaret Cancer Centre](https://www.uhnresearch.ca/institutes/pm){:target="\_blank"} with investigators at the [University of Toronto](https://en.wikipedia.org/wiki/University_of_Toronto){:target="\_blank"}.
