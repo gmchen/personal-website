@@ -9,7 +9,7 @@ nav: true
 
 ### Selected Publications
 
-Melenhorst JJ\*#, **Chen GM**\*, Wang M\*, Porter DL\*, Chen C, Collins MA, Gao P, Bandyopadhyay S, Sun H, Zhao Z, Lundh S, Pruteanu-Malinici I, Nobles CL, Maji S, Frey NV, Gill SI, Tian L, Kulikovskaya I, Gupta M, Ambrose DE, Davis MM, Fraietta JA, Brogdon JL, Young RM, Chew A, Levine BL, Siegel DL, Alanio C, Wherry EJ, Bushman FD, Lacey SF, Tan K#, June CH#. _Decade-long leukemia remissions with persistence of CD4+ CAR T-cells._  
+Melenhorst JJ\*#, **Chen GM**\*, Wang M\*, Porter DL\*, Chen C, Collins MA, Gao P, Bandyopadhyay S, Sun H, Zhao Z, Lundh S, Pruteanu-Malinici I, Nobles CL, Maji S, Frey NV, Gill SI, Tian L, Kulikovskaya I, Gupta M, Ambrose DE, Davis MM, Fraietta JA, Brogdon JL, Young RM, Chew A, Levine BL, Siegel DL, Alanio C, Wherry EJ, Bushman FD, Lacey SF, Tan K#, June CH#. _Decade-long leukemia remissions with persistence of CD4+ CAR T cells._  
 Nature ([2022](https://www.nature.com/articles/s41586-021-04390-6){:target="\_blank"}).
 
 **Chen GM**\*, Chen C\*, Das RK\*, Gao P, Chen C, Bandyopadhyay S, Ding YY, Uzun Y, Yu W, Zhu Q, Myers RM, Grupp SA, Barrett DM#, Tan K#. _Integrative bulk and single-cell profiling of pre-manufacture T-cell populations reveals factors mediating long-term persistence of CAR T-cell therapy._  

@@ -21,7 +21,7 @@ By longitudnally studying CAR T cells from the first two succesfully treated can
     An excerpt of Figs. 3 and 4, showing a UMAP embedding of 5' CITE-Seq data with TCR clonotyping.
 </div>
 
-Melenhorst JJ\*#, **Chen GM**\*, Wang M\*, Porter DL\*, Chen C, Collins MA, Gao P, Bandyopadhyay S, Sun H, Zhao Z, Lundh S, Pruteanu-Malinici I, Nobles CL, Maji S, Frey NV, Gill SI, Tian L, Kulikovskaya I, Gupta M, Ambrose DE, Davis MM, Fraietta JA, Brogdon JL, Young RM, Chew A, Levine BL, Siegel DL, Alanio C, Wherry EJ, Bushman FD, Lacey SF, Tan K#, June CH#. _Decade-long leukemia remissions with persistence of CD4+ CAR T-cells._  
+Melenhorst JJ\*#, **Chen GM**\*, Wang M\*, Porter DL\*, Chen C, Collins MA, Gao P, Bandyopadhyay S, Sun H, Zhao Z, Lundh S, Pruteanu-Malinici I, Nobles CL, Maji S, Frey NV, Gill SI, Tian L, Kulikovskaya I, Gupta M, Ambrose DE, Davis MM, Fraietta JA, Brogdon JL, Young RM, Chew A, Levine BL, Siegel DL, Alanio C, Wherry EJ, Bushman FD, Lacey SF, Tan K#, June CH#. _Decade-long leukemia remissions with persistence of CD4+ CAR T cells._  
 Nature ([2022](https://www.nature.com/articles/s41586-021-04390-6){:target="\_blank"}).
 
 <br>
