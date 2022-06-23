@@ -9,6 +9,9 @@ nav: true
 
 ### Selected Publications
 
+**Chen GM**#, Melenhorst JJ, Tan K#. _B-cell targeting in CAR T cell therapy: side effect or biological driver of CAR T-cell function?_  
+Science Translational Medicine ([2022](https://www.science.org/doi/10.1126/scitranslmed.abn3353){:target="\_blank"}).
+
 Melenhorst JJ\*#, **Chen GM**\*, Wang M\*, Porter DL\*, Chen C, Collins MA, Gao P, Bandyopadhyay S, Sun H, Zhao Z, Lundh S, Pruteanu-Malinici I, Nobles CL, Maji S, Frey NV, Gill SI, Tian L, Kulikovskaya I, Gupta M, Ambrose DE, Davis MM, Fraietta JA, Brogdon JL, Young RM, Chew A, Levine BL, Siegel DL, Alanio C, Wherry EJ, Bushman FD, Lacey SF, Tan K#, June CH#. _Decade-long leukemia remissions with persistence of CD4+ CAR T cells._  
 Nature ([2022](https://www.nature.com/articles/s41586-021-04390-6){:target="\_blank"}).
 
