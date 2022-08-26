@@ -26,11 +26,6 @@ a, table.table a {
   text-align: center;
 }
 
-// Max width for mobile devies based on https://github.com/alshedivat/al-folio/pull/522
-img {
-  max-width: 90vw;
-}
-
 // Caption
 
 .caption {
@@ -45,7 +40,7 @@ img {
 
 .profile {
   margin-left: 1rem;
-  width: 100%;
+  width: 50%; // Reduced from 100% for mobile, based on https://github.com/alshedivat/al-folio/issues/127
 
   .address {
     margin-bottom: 5px;
