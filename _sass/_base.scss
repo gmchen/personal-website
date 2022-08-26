@@ -26,6 +26,11 @@ a, table.table a {
   text-align: center;
 }
 
+// Max width for mobile devies based on https://github.com/alshedivat/al-folio/pull/522
+img {
+  max-width: 90vw;
+}
+
 // Caption
 
 .caption {
