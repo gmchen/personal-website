@@ -9,6 +9,9 @@ nav: true
 
 ### Selected Publications
 
+**Chen GM**, Chen C, Grupp SA, Barrett DM, Tan K. _Characterization of leukemic resistance to CD19 targeted CAR T-cell therapy through deep genomic sequencing._  
+Cancer Immunology Research ([2022](https://aacrjournals.org/cancerimmunolres/article/doi/10.1158/2326-6066.CIR-22-0095/709811/Characterization-of-leukemic-resistance-to-CD19){:target="\_blank"}).
+
 **Chen GM**#, Melenhorst JJ, Tan K#. _B-cell targeting in CAR T cell therapy: side effect or biological driver of CAR T-cell function?_  
 Science Translational Medicine ([2022](https://www.science.org/doi/10.1126/scitranslmed.abn3353){:target="\_blank"}).
 
