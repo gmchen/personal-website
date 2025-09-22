@@ -7,10 +7,16 @@ order: 3
 nav: true
 ---
 
-### Selected Publications
+### First-author Publications
+
+**Chen GM**, Jain A, Gering D, Satulovsky J, Datta S, Lai P, Karar J, Gonzalez VE, Alexander K, Chew A, Jadlowsky JK, Moody J, Carolan E, Ruella M, Paruzoo L, Amses KR, Stadtmauer EA, Frey NV, Hexner EO, Porter DL, Cohen AD, Gill SI, Garfall AL, Schuster SJ, Mo KC, Liang SI, Spasic M, Levine BL, Siegel DL, Ramírez-Fernández A, Cabanski C, Yang E, Mackall CL, Bushman FD, Good Z, Wherry EJ, June CH, Fraietta JA. _Predictive biomarkers of response to chimeric antigen receptor (CAR) T cell therapy for pan-hematologic cancer._  
+Nature Biomedical Engineering (In Press).
+
+Dimitri AJ\*, Baxter AE\*, **Chen GM**\*, Hopkins CR, Rouin GT, Huang H, Kong W, Holliday CH, Wiebking V, Bartoszek R, Drury S, Dalton K, Koucky OM, Chen Z, Giles JR, Jung I, O'Connor R, Collins S, Everett JK, Amses K, Sherrill-Mix S, Chandra A, Goldman N, Vahedi G, Jadlowsky JK, Young RM, Melenhorst JJ, Maude SL, Levine BL, Frey NV, Berger SL, Grupp SA, Porter DL, Herbst F, Porteus MH, Bushman FD, Weber EW, Wherry EJ, Jordan MS, Fraietta JA. _TET2 regulates early and late transitions in exhausted CD8+ T-cell differentiation and limits CAR T-cell function._  
+Science Advances ([2024](https://www.science.org/doi/10.1126/sciadv.adp9371){:target="\_blank"}). * These authors contributed equally to this work.
 
 **Chen GM**, Chen C, Grupp SA, Barrett DM, Tan K. _Characterization of leukemic resistance to CD19 targeted CAR T-cell therapy through deep genomic sequencing._  
-Cancer Immunology Research ([2022](https://aacrjournals.org/cancerimmunolres/article/doi/10.1158/2326-6066.CIR-22-0095/709811/Characterization-of-leukemic-resistance-to-CD19){:target="\_blank"}).
+Cancer Immunology Research ([2023](https://aacrjournals.org/cancerimmunolres/article/11/1/13/711817/Characterization-of-Leukemic-Resistance-to-CD19){:target="\_blank"}).
 
 **Chen GM**#, Melenhorst JJ, Tan K#. _B-cell targeting in CAR T cell therapy: side effect or biological driver of CAR T-cell function?_  
 Science Translational Medicine ([2022](https://www.science.org/doi/10.1126/scitranslmed.abn3353){:target="\_blank"}).
@@ -39,6 +45,15 @@ Nature Chemical Biology ([2016](https://www.nature.com/articles/nchembio.2188){:
 <br/>
 
 ### Contributing Author Publications
+
+Xu J, Sussman JH, Yang A, Yoshimura S, Hu J, Chen C, Vincent T, Bandyopadhyay S, Li EY, Lim T, Elghawy O, Barsouk A, Karanfilovski D, Wald SL, **Chen GM**, Wu D, Newman H, Li A, Sun Y, Chen CH, Bernt K, Wood BL, Winter SS, Dunsmore KP, Raetz E, Devidas M, Pounds S, Loh M, Hunger SP, Chiang MY, Diorio C, Di Giacomo D, Pölönen P, Mullighan CG, Yang JJ, Tan K, Teachey DT. _STAT1-mediated interferon signatures are associated with preclinical JAK inhibitor sensitivity in T-ALL._  
+Blood (2025).
+
+Xu J, Chen C, Sussman JH, Yoshimura S, Vincent T, Pölönen P, Hu J, Bandyopadhyay S, Elghawy O, Yu W, Tumulty J, Chen CH, Li EY, Diorio C, Shraim R, Newman H, Uppuluri L, Li A, **Chen GM**, Wu DW, Ding YY, Xu JA, Karanfilovski D, Lim T, Hsu M, Thadi A, Ahn KJ, Wu CY, Peng J, Sun Y, Wang A, Mehta R, Frank D, Meyer L, Loh ML, Raetz EA, Chen Z, Wood BL, Devidas M, Dunsmore KP, Winter SS, Chang TC, Wu G, Pounds SB, Zhang NR, Carroll W, Hunger SP, Bernt K, Yang JJ, Mullighan CG, Tan K, Teachey DT. _A multiomic atlas identifies a treatment-resistant, bone marrow progenitor-like cell population in T cell acute lymphoblastic leukemia._  
+Nature Cancer (2025).
+
+Doan AE, Mueller KP, Chen AY, Rouin GT, Chen Y, Daniel B, Lattin J, Markovska M, Mozarsky B, Arias-Umana J, Hapke R, Jung I, Wang A, Xu P, Klysz D, Zuern G, Bashti M, Quinn PJ, Miao Z, Sandor K, Zhang W, **Chen GM**, Ryu F, Logun M, Hall J, Tan K, Grupp SA, McClory SE, Lareau CA, Fraietta JA, Sotillo E, Stapathy AT, Mackall CL, Weber EW. _FOXO1 is a master regulator of memory programming in CAR T cells._  
+Nature (2024).
 
 Ding YY, Kim H, Madden K, Loftus JP, **Chen GM**, Allen DH, Zhang R, Xu J, Hu Y, Tasian SK, Tan K. _Network Analysis Reveals Synergistic Genetic Dependencies for Rational Combination Therapy in Philadelphia Chromosome-like Acute Lymphoblastic Leukemia._  
 Clinical Cancer Research (2021).
