@@ -15,7 +15,7 @@ nav: true
 
 Dimitri AJ\*, Baxter AE\*, **Chen GM**\*, Hopkins CR, Rouin GT, Huang H, Kong W, Holliday CH, Wiebking V, Bartoszek R, Drury S, Dalton K, Koucky OM, Chen Z, Giles JR, Jung I, O'Connor R, Collins S, Everett JK, Amses K, Sherrill-Mix S, Chandra A, Goldman N, Vahedi G, Jadlowsky JK, Young RM, Melenhorst JJ, Maude SL, Levine BL, Frey NV, Berger SL, Grupp SA, Porter DL, Herbst F, Porteus MH, Bushman FD, Weber EW, Wherry EJ, Jordan MS, Fraietta JA.  
 _TET2 regulates early and late transitions in exhausted CD8+ T-cell differentiation and limits CAR T-cell function._  
-<u>Science Advances</u> ([2024](https://www.science.org/doi/10.1126/sciadv.adp9371){:target="\_blank"}). * These authors contributed equally to this work.
+<u>Science Advances</u> ([2024](https://www.science.org/doi/10.1126/sciadv.adp9371){:target="\_blank"}).
 
 **Chen GM**, Chen C, Grupp SA, Barrett DM, Tan K.  
 _Characterization of leukemic resistance to CD19 targeted CAR T-cell therapy through deep genomic sequencing._  
