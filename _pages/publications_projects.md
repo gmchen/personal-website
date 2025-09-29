@@ -17,7 +17,7 @@ Dimitri AJ\*, Baxter AE\*, **Chen GM**\*, Hopkins CR, Rouin GT, Huang H, Kong W,
 _TET2 regulates early and late transitions in exhausted CD8+ T-cell differentiation and limits CAR T-cell function._  
 <u>Science Advances</u> ([2024](https://www.science.org/doi/10.1126/sciadv.adp9371){:target="\_blank"}).
 
-**Chen GM**, Chen C, Grupp SA, Barrett DM, Tan K.  
+**Chen GM**, Chen C, Perazzelli J, Grupp SA, Barrett DM, Tan K.  
 _Characterization of leukemic resistance to CD19 targeted CAR T-cell therapy through deep genomic sequencing._  
 <u>Cancer Immunology Research</u> ([2023](https://aacrjournals.org/cancerimmunolres/article/11/1/13/711817/Characterization-of-Leukemic-Resistance-to-CD19){:target="\_blank"}).
 
