@@ -56,6 +56,14 @@ _Polyketide and nonribosomal peptide retro-biosynthesis and global gene cluster 
 
 ### Contributing Author Publications
 
+Ho M, Paruzzo L, Noll JH, Stella F, Devi P, Ndeupen S, Day YA, **Chen GM**, Cohen IJ, Ramírez-Fernández A, Waxman A, Kapur S, Chen F, Xu R, Huff A, Jarocha D, Patel V, Bochi-Layec AC, Ramasubramanian R, Liu S, Bouvier R, de Souza VB, Patel H, Li Z, Carturan A, Michener P, Hopkins CR, Koucky O, Minehart J, Dimitri A, Nabar NR, Hasanali ZS, Ciccarelli BT, Hung P, Williams E, Bartoszek R, Lavorando M, Mohan S, Gonzalez VE, Porazzi P, Bhoj VG, Apostolidis SA, Vogl DV, Porter DL, Scholler J, Diorio C, Roche AM, Everett JK, Bushman FD, Nathanson KL, Stadtmauer EA, Susanibar-Adaniya SP, Garfall AL, Ruella M, Cohen AD, Fraietta JA.  
+_CD4+ T cells mediate CAR-T cell–associated immune-related adverse events after BCMA CAR-T cell therapy._  
+<u>Nature Medicine</u> (2026).
+
+Ramírez-Fernández Á, Dimitri AJ, Chen F, Bartoszek R, **Chen GM**, Córdoba-Espejo L, Zhou Y, Tang Y, Lin C-T, Acosta R, Scholler J, Ghilardi G, Porazzi P, Pellicer M, Profitós-Pelejà N, Barta SK, Chew A, Jadlowsky JK, Gonzalez VE, Siegel DL, Levine BL, Roué G, Ruella M, Lotze MT, June CH, Riley JL, Fraietta JA. 
+_CCR5-targeted allogeneic gamma–delta CD19 chimeric antigen receptor T cells for HIV-associated B cell-malignancy immunotherapy._  
+<u>Nature Biomedical Engineering</u> (2025).
+
 Xu J, Sussman JH, Yang A, Yoshimura S, Hu J, Chen C, Vincent T, Bandyopadhyay S, Li EY, Lim T, Elghawy O, Barsouk A, Karanfilovski D, Wald SL, **Chen GM**, Wu D, Newman H, Li A, Sun Y, Chen CH, Bernt K, Wood BL, Winter SS, Dunsmore KP, Raetz E, Devidas M, Pounds S, Loh M, Hunger SP, Chiang MY, Diorio C, Di Giacomo D, Pölönen P, Mullighan CG, Yang JJ, Tan K, Teachey DT.  
 _STAT1-mediated interferon signatures are associated with preclinical JAK inhibitor sensitivity in T-ALL._  
 <u>Blood</u> (2025).
