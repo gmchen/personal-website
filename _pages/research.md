@@ -7,19 +7,15 @@ order: 2
 nav: true
 ---
 
-### Cancer Genomics and Immunology
+### Engineering next-generation CAR T-cell therapies for cancer
 
-I am interested in the genomic basis of cancer, molecular subtyping, and therapeutic possibilities through strategies such as CAR T-cell therapy. My research has involved the use of molecular technologies paired with new and exciting computational biology methods to better understand and treat cancer.
+My research focuses on developing next-generation CAR T-cell therapies using biologically inspired gene- and protein-engineering strategies. While CAR T-cell therapy has been transformative for hematologic malignancies, major challenges remain in extending these successes to new disease contexts such as metastatic solid cancers. A central theme of my work is identifying principles underlying successful CAR T-cell responses and translating those principles into new therapeutic designs. I am particularly interested in strategies that enhance systemic activity, persistence, and functional robustness of engineered immune cells while mitigating on-target, off-tumor toxicity. 
 
-### Data Science and Computational Methods
+### Long-lived immune states in health and disease
 
-I am interested in the application of data science to address key problems in biology in medicine. My research has involved algorithm development and validation, principled use of machine learning and statistics, and thoughtful experimental design to derive meaningful insight from high-dimensional datasets.
+I have a deep interest in long-lived immune cell states that underlie immune responses in health and disease. My research on decade-long persisting CAR T cells revealed the existence of unexpected, long-persisting CAR T cells with sustained clinical responses, motivating a broader interest in how immune cells maintain long-term functionality. These long-lived states provide a window into fundamental immunology, with relevance not only to cancer immunotherapy but also to immune memory, chronic infection, and immune-mediated disease. 
 
-### High-throughput Molecular Technologies
+### Data-driven discovery as an engine for biological and therapeutic insight
 
-I am very excited about the pace of development in molecular technologies in our post-genomic era. My research has involved the analysis of genomic, transcriptomic, and epigenomic data at the bulk and single-cell level, with the objective of improving our understanding of human health and disease.
-
-### Drug Discovery and Therapeutic Development
-
-I am interested in strategies to develop and improve therapeutic strategies for human disease. My past research involved computational methods for microbial-based drug discovery, and my recent work has involved the study of small molecule and cell-based therapies in the treatment of cancer.
+My research uses data-driven discovery as an engine for generating biological insight and motivating new strategies for therapeutic innovation. I develop and apply computational and statistical approaches to analyze high-dimensional genomic and single-cell datasets, with an emphasis on principled model design, validation, and interpretability. Computation in my work is tightly integrated with experimental and clinical questions, serving as a fundamental tool to identify immune states, regulatory programs, and biological constraints in complex data. 
 
