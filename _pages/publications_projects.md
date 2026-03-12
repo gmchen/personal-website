@@ -9,9 +9,9 @@ nav: true
 
 ### First-author Publications
 
-**Chen GM**, Jain A, Gering D, Satulovsky J, Datta S, Lai P, Karar J, Gonzalez VE, Alexander K, Chew A, Jadlowsky JK, Moody J, Carolan E, Ruella M, Paruzoo L, Amses KR, Stadtmauer EA, Frey NV, Hexner EO, Porter DL, Cohen AD, Gill SI, Garfall AL, Schuster SJ, Mo KC, Liang SI, Spasic M, Levine BL, Siegel DL, Ramírez-Fernández A, Cabanski C, Yang E, Mackall CL, Bushman FD, Good Z, Wherry EJ, June CH, Fraietta JA.  
+**Chen GM**#, Jain A, Gering D, Satulovsky J, Datta S, Lai P, Karar J, Gonzalez VE, Alexander K, Chew A, Jadlowsky JK, Moody J, Carolan E, Ruella M, Paruzoo L, Amses KR, Stadtmauer EA, Frey NV, Hexner EO, Porter DL, Cohen AD, Gill SI, Garfall AL, Schuster SJ, Mo KC, Liang SI, Spasic M, Levine BL, Siegel DL, Ramírez-Fernández A, Cabanski C, Yang E, Mackall CL, Bushman FD, Good Z, Wherry EJ, June CH, Fraietta JA#.  
  _Predictive biomarkers of response to chimeric antigen receptor (CAR) T cell therapy for pan-hematologic cancer._  
-<u>Nature Biomedical Engineering</u> (In Press).
+<u>Nature Biomedical Engineering</u> ([2026](https://www.nature.com/articles/s41551-026-01633-7){:target="\_blank"}).
 
 Dimitri AJ\*, Baxter AE\*, **Chen GM**\*, Hopkins CR, Rouin GT, Huang H, Kong W, Holliday CH, Wiebking V, Bartoszek R, Drury S, Dalton K, Koucky OM, Chen Z, Giles JR, Jung I, O'Connor R, Collins S, Everett JK, Amses K, Sherrill-Mix S, Chandra A, Goldman N, Vahedi G, Jadlowsky JK, Young RM, Melenhorst JJ, Maude SL, Levine BL, Frey NV, Berger SL, Grupp SA, Porter DL, Herbst F, Porteus MH, Bushman FD, Weber EW, Wherry EJ, Jordan MS, Fraietta JA.  
 _TET2 regulates early and late transitions in exhausted CD8+ T-cell differentiation and limits CAR T-cell function._  
@@ -55,6 +55,10 @@ _Polyketide and nonribosomal peptide retro-biosynthesis and global gene cluster 
 <br/>
 
 ### Contributing Author Publications
+
+Xu J, McCoy M, Martinez Z, Sussman JH, Gao D, Vincent T, Wang H, Ma C, Elghawy O, **Chen GM**, Yang AG, Pölönen P, Natan K, Shraim R, Newman H, Hoffman TJ, Scoma S, DiNofia AM, Hunger SP, Yang JJ, Mullighan CG, Bernt KM, Hexner EO, Grupp SA, Watanabe K, June CH, Tan K, Teachey DT, Diorio C.  
+_CCR4 expression defines a targetable subset of T-cell acute lymphoblastic leukemia._  
+<u>Blood Advances</u> (2026).
 
 Ho M, Paruzzo L, Noll JH, Stella F, Devi P, Ndeupen S, Day YA, **Chen GM**, Cohen IJ, Ramírez-Fernández A, Waxman A, Kapur S, Chen F, Xu R, Huff A, Jarocha D, Patel V, Bochi-Layec AC, Ramasubramanian R, Liu S, Bouvier R, de Souza VB, Patel H, Li Z, Carturan A, Michener P, Hopkins CR, Koucky O, Minehart J, Dimitri A, Nabar NR, Hasanali ZS, Ciccarelli BT, Hung P, Williams E, Bartoszek R, Lavorando M, Mohan S, Gonzalez VE, Porazzi P, Bhoj VG, Apostolidis SA, Vogl DV, Porter DL, Scholler J, Diorio C, Roche AM, Everett JK, Bushman FD, Nathanson KL, Stadtmauer EA, Susanibar-Adaniya SP, Garfall AL, Ruella M, Cohen AD, Fraietta JA.  
 _CD4+ T cells mediate CAR-T cell–associated immune-related adverse events after BCMA CAR-T cell therapy._  
