@@ -6,10 +6,6 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
 ---
 
 I am a physician-scientist developing next-generation cell therapies for cancer, with a focus on understanding and engineering CAR T-cell responses using genomic, single-cell, and computational approaches. 
