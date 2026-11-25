@@ -9,7 +9,7 @@ nav: true
 
 ### Engineering next-generation immunotherapies for cancer
 
-My research focuses on developing next-generation CAR T-cell therapies using biologically inspired gene- and protein-engineering strategies. While CAR T-cell therapy has been transformative for hematologic malignancies, major challenges remain in extending these successes to new disease contexts such as metastatic solid cancers. A central theme of my work is identifying principles underlying successful CAR T-cell responses and translating those principles into new therapeutic designs. I am particularly interested in strategies that enhance systemic activity, persistence, and functional robustness of engineered immune cells while mitigating on-target, off-tumor toxicity. 
+My research focuses on developing next-generation immunotherapies using biologically inspired gene- and protein-engineering strategies. While CAR T-cell therapy has been transformative for hematologic malignancies, major challenges remain in extending these successes to new disease contexts such as metastatic solid cancers. A central theme of my work is identifying principles underlying successful CAR T-cell responses and translating those principles into new therapeutic designs. I am particularly interested in strategies that enhance systemic activity, persistence, and functional robustness of engineered immune cells while mitigating on-target, off-tumor toxicity. 
 
 ### Long-lived immune states in health and disease
 
