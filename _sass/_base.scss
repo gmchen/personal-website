@@ -428,3 +428,5 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+#light-toggle { background: none; border: 0; padding: 0; color: var(--global-text-color); cursor: pointer; }
+.projects.grid { margin: 0 auto; }

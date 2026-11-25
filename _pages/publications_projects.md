@@ -76,7 +76,7 @@ Xu J, Chen C, Sussman JH, Yoshimura S, Vincent T, Pölönen P, Hu J, Bandyopadhy
 _A multiomic atlas identifies a treatment-resistant, bone marrow progenitor-like cell population in T cell acute lymphoblastic leukemia._  
 <u>Nature Cancer</u> (2025).
 
-Doan AE, Mueller KP, Chen AY, Rouin GT, Chen Y, Daniel B, Lattin J, Markovska M, Mozarsky B, Arias-Umana J, Hapke R, Jung I, Wang A, Xu P, Klysz D, Zuern G, Bashti M, Quinn PJ, Miao Z, Sandor K, Zhang W, **Chen GM**, Ryu F, Logun M, Hall J, Tan K, Grupp SA, McClory SE, Lareau CA, Fraietta JA, Sotillo E, Stapathy AT, Mackall CL, Weber EW.  
+Doan AE, Mueller KP, Chen AY, Rouin GT, Chen Y, Daniel B, Lattin J, Markovska M, Mozarsky B, Arias-Umana J, Hapke R, Jung I, Wang A, Xu P, Klysz D, Zuern G, Bashti M, Quinn PJ, Miao Z, Sandor K, Zhang W, **Chen GM**, Ryu F, Logun M, Hall J, Tan K, Grupp SA, McClory SE, Lareau CA, Fraietta JA, Sotillo E, Satpathy AT, Mackall CL, Weber EW.  
 _FOXO1 is a master regulator of memory programming in CAR T cells._  
 <u>Nature</u> (2024).
 

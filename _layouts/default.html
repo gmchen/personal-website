@@ -1,33 +1,23 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   <head>
     {% include head.html %}
-    {% include scripts/mathjax.html %}
   </head>
 
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-
-    <!-- Header -->
-
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %}">
     {% include header.html %}
-
-    <!-- Content -->
 
     <div class="container mt-5">
       {{ content }}
     </div>
 
-    <!-- Footer -->
-    <!--
-    {% include footer.html %}
-    --->
-
+    <script src="{{ '/assets/js/vendor/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/bootstrap.min.js' | relative_url }}"></script>
+    {% if site.enable_mansory %}
+    <script defer src="{{ '/assets/js/vendor/masonry.pkgd.min.js' | relative_url }}"></script>
+    <script defer src="{{ '/assets/js/vendor/imagesloaded.pkgd.min.js' | relative_url }}"></script>
+    <script defer src="{{ '/assets/js/mansory.js' | relative_url }}"></script>
+    {% endif %}
+    <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
   </body>
-
-  {% include scripts/jquery.html %}
-  {% include scripts/bootstrap.html %}
-  {% include scripts/mansory.html %}
-  {% include scripts/misc.html %}
-
 </html>

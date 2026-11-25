@@ -1,18 +1,4 @@
-// Has to be in the head tag, otherwise a flicker effect will occur.
-let initTheme = (theme) => {
-  if (theme == null) {
-    const userPref = window.matchMedia;
-// Default light theme
-//    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-//        theme = 'dark';
-//    }
-  }
-
-  if (theme)  {
-    document.documentElement.setAttribute('data-theme', theme)
-  }
-
-  localStorage.setItem("theme", theme);
+// Must load in <head> to avoid a flash of the wrong theme.
+if (localStorage.getItem("theme") === "dark") {
+  document.documentElement.setAttribute("data-theme", "dark");
 }
-
-initTheme(localStorage.getItem("theme"));
