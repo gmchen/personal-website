@@ -9,8 +9,8 @@ nav: true
 
 ### First-author Publications
 
-**Chen GM**#, Jain A, Gering D, Satulovsky J, Datta S, Lai P, Karar J, Gonzalez VE, Alexander K, Chew A, Jadlowsky JK, Moody J, Carolan E, Ruella M, Paruzoo L, Amses KR, Stadtmauer EA, Frey NV, Hexner EO, Porter DL, Cohen AD, Gill SI, Garfall AL, Schuster SJ, Mo KC, Liang SI, Spasic M, Levine BL, Siegel DL, Ramírez-Fernández A, Cabanski C, Yang E, Mackall CL, Bushman FD, Good Z, Wherry EJ, June CH, Fraietta JA#.  
- _Predictive biomarkers of response to chimeric antigen receptor (CAR) T cell therapy for pan-hematologic cancer._  
+**Chen GM**#, Jain A, Gering DT, Satulovsky J, Datta S, Lai P, Karar J, Gonzalez VE, Alexander K, Chew A, Jadlowsky JK, Ruella M, Paruzzo L, Amses KR, Rech AJ, Stadtmauer EA, Frey NV, Hexner EO, Porter DL, Cohen AD, Gill SI, Garfall AL, Schuster SJ, Mo KC, Liang SI, Spasic M, Levine BL, Siegel DL, Ramírez-Fernández A, Cabanski CR, Yang E, Mackall CL, Bushman FD, Good Z, Wherry EJ, June CH, Fraietta JA#.  
+_Predictive biomarkers of response to chimeric antigen receptor (CAR) T-cell therapy for pan-haematologic cancer._  
 <u>Nature Biomedical Engineering</u> ([2026](https://www.nature.com/articles/s41551-026-01633-7){:target="\_blank"}).
 
 Dimitri AJ\*, Baxter AE\*, **Chen GM**\*, Hopkins CR, Rouin GT, Huang H, Kong W, Holliday CH, Wiebking V, Bartoszek R, Drury S, Dalton K, Koucky OM, Chen Z, Giles JR, Jung I, O'Connor R, Collins S, Everett JK, Amses K, Sherrill-Mix S, Chandra A, Goldman N, Vahedi G, Jadlowsky JK, Young RM, Melenhorst JJ, Maude SL, Levine BL, Frey NV, Berger SL, Grupp SA, Porter DL, Herbst F, Porteus MH, Bushman FD, Weber EW, Wherry EJ, Jordan MS, Fraietta JA.  
@@ -55,6 +55,14 @@ _Polyketide and nonribosomal peptide retro-biosynthesis and global gene cluster 
 <br/>
 
 ### Contributing Author Publications
+
+Xu J, Mei C, Guan X, Du R, Wu B, Wu D, Li M, Li J, Song Y, Su H, Chen X, Guo Q, Chen H, Sussman JH, **Chen GM**, Bandyopadhyay S, Pillai V, Lanz TV, Liedtke M, Onel K, Katsumoto TR, Tan K, Yan X, Chien M, Salmasi G, Kerschbaumer A, Teachey DT, Meffre E, Kennedy VE, Robinson WH, Huang A, Baker MC, Li Q.  
+_A bispecific CD3×CD19 antibody for systemic lupus erythematosus: a phase 1 trial._  
+<u>Nature Medicine</u> (2026).
+
+Paruzzo L, Chong ER, Chong EA, Zheng Z, Guruprasad P, Landsburg DJ, Nasta SD, Stella F, Ramasubramanian R, de Souza VB, Alkhatib MH, Ho M, Imparato A, **Chen GM**, Siegel DL, Plesa G, Dai A, Mackey S, Das P, Michener P, Jadlowsky J, Bushman FD, Patel V, Carturan A, Napier EB, Gonzalez VE, Jarocha D, Xu R, Levine BL, Porazzi P, Frey N, Porter DL, Svoboda J, Fraietta JA, June CH, Schuster SJ, Ruella M.  
+_Decade-long persistence of CD19 CAR T cells in B cell lymphomas._  
+<u>Nature Medicine</u> (2026).
 
 Xu J, McCoy M, Martinez Z, Sussman JH, Gao D, Vincent T, Wang H, Ma C, Elghawy O, **Chen GM**, Yang AG, Pölönen P, Natan K, Shraim R, Newman H, Hoffman TJ, Scoma S, DiNofia AM, Hunger SP, Yang JJ, Mullighan CG, Bernt KM, Hexner EO, Grupp SA, Watanabe K, June CH, Tan K, Teachey DT, Diorio C.  
 _CCR4 expression defines a targetable subset of T-cell acute lymphoblastic leukemia._  
